@@ -20,8 +20,8 @@ class MainActivity : AppCompatActivity() {
             val peso: Float = edtPeso.text.toString().toFloat()
             val altura: Float = edtAltura.text.toString().toFloat()
 
-            val altura02 = altura * altura
-            val resultado = peso/altura02
+
+            val resultado = peso/(altura*altura)
             println("Cleonis " + resultado )
         }
 
