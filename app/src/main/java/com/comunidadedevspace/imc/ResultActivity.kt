@@ -31,5 +31,13 @@ class ResultActivity : AppCompatActivity() {
             "OBESIDADE GRAVE"
         }
         tvClassificacao.text = classificacao
+
+        when (classificacao){
+            "MAGREZA" -> tvClassificacao.setTextColor(resources.getColor(R.color.MAGREZA))
+            "NORMAL" -> tvClassificacao.setTextColor(resources.getColor(R.color.Normal))
+            "SOBREPESO" -> tvClassificacao.setTextColor(resources.getColor(R.color.SOBREPESO))
+            "OBESIDADE" -> tvClassificacao.setTextColor(resources.getColor(R.color.OBESIDADE))
+            "OBESIDADE GRAVE" -> tvClassificacao.setTextColor(resources.getColor(R.color.OBESIDADEGRAVE))
+        }
     }
 }
