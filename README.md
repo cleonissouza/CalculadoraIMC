@@ -48,3 +48,9 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
+## Author (under the guidance of Roque buarque)   
+Francisco Cleonis Costa de Souza   
+Android Developer (Junior)   
+📍 Bristol, UK  
+🔗 GitHub: https://github.com/cleonissouza   
+🔗 LinkedIn: https://www.linkedin.com/in/cleonis-souza/  
